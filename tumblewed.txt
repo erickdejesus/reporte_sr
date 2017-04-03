@@ -1,0 +1,10 @@
+
+
+Usuario: REPORTES_CALLC
+Contraseña: R3portes_
+https://transferencias.liverpool.com.mx:10443/
+
+172.17.203.61
+21
+
+reporte_temp.xlsx
